@@ -5,8 +5,7 @@ void sub(int ra, int ca, int a[ra][ca], int b[ra][ca]);
 void multi(int ra, int ca, int rb, int cb, int a[ra][ca], int b[rb][cb]);
 
 int main() {
-//	int a[3][3]={{10,5,11},{22,3,2},{5,0,2}};
-//	int b[3][3]={{9,3,2},{0,5,1},{3,0,1}};
+
     int ra,ca,rb,cb;
     printf("Enter row of A matrix:");
     scanf("%d",&ra);
