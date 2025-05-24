@@ -54,9 +54,11 @@ gcc -o matrix_calculator matrix.c
 .Identity check is only applicable to square matrices.
 
 ## 🙋 Author
-Abdullah Al Mahdi
-BSc in Computer Science & Engineering
-Leading University
+Abdullah Al Mahdi.
+
+BSc in Computer Science & Engineering.
+
+Leading University.
 
 
 
