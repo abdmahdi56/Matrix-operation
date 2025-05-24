@@ -44,7 +44,7 @@ gcc -o matrix_calculator matrix.c
 ./matrix_calculator
 ```
 
-📌 Notes
+##📌 Notes
 .Matrix addition and subtraction are only valid when both matrices have the same dimensions.
 
 .Multiplication is valid only if the number of columns in A equals the number of rows in B.
@@ -53,7 +53,7 @@ gcc -o matrix_calculator matrix.c
 
 .Identity check is only applicable to square matrices.
 
-🙋 Author
+##🙋 Author
 Abdullah Al Mahdi
 BSc in Computer Science & Engineering
 Leading University
