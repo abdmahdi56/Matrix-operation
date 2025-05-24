@@ -42,18 +42,21 @@ Make sure you're using a C99 (or later) compatible compiler (for Variable Length
 ```bash
 gcc -o matrix_calculator matrix.c
 ./matrix_calculator
-
+```
 
 📌 Notes
-Matrix addition and subtraction are only valid when both matrices have the same dimensions.
+.Matrix addition and subtraction are only valid when both matrices have the same dimensions.
 
-Multiplication is valid only if the number of columns in A equals the number of rows in B.
+.Multiplication is valid only if the number of columns in A equals the number of rows in B.
 
-Determinant is only computed for square matrices (1x1 to 3x3).
+.Determinant is only computed for square matrices (1x1 to 3x3).
 
-Identity check is only applicable to square matrices.
+.Identity check is only applicable to square matrices.
 
 🙋 Author
 Abdullah Al Mahdi
 BSc in Computer Science & Engineering
 Leading University
+
+
+
